@@ -130,7 +130,7 @@ header .wrapper {
 }
 
 #logo {
-	margin-right:20px;
+	margin-right:2px;
 }
 
 
@@ -168,7 +168,8 @@ Removes the border on the first link...
 }
 
 #work img, .additional-projects img {
-	width: 100%;
+	width: 10%;
+	height: 10%;
 	margin-bottom: 10px;
 }
 
