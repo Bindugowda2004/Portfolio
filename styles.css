@@ -60,7 +60,7 @@ sizing and spacing as well.
 
 
 body {
-	font-family:Georgia;
+	font-family:RALEWAY;
 	color:#333;
 	background:#333;
 }
@@ -68,8 +68,9 @@ body {
 /************* typography ************/
 
 h1, h2, h3, h4, nav { 
-	font-family:Arial;
-	font-weight:bold; 
+	font-family:Oswald;
+	font-weight:400;
+	text-transform:uppercase;
 }
 
 h1 {
