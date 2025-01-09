@@ -21,8 +21,8 @@ a { text-decoration:none; }
 
 img {
 	display: block;
-	width:50%;
-	height:50%;
+	width:65%;
+	height:80%;
 }
 
 * { box-sizing: border-box; }
@@ -168,8 +168,8 @@ Removes the border on the first link...
 }
 
 #work img, .additional-projects img {
-	width: 40%;
-	height: 40%;
+	width: 65%;
+	height: 65%;
 	margin-bottom: 10px;
 }
 
@@ -225,7 +225,7 @@ footer {
 	}
 	
 	.additional-projects article {
-		width: 50%;
+		width: 60%;
 		padding: 0 10px;
 	}
 	
