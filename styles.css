@@ -22,7 +22,7 @@ a { text-decoration:none; }
 img {
 	display: block;
 	width:45%;
-	height:50%;
+	height:60%;
 }
 
 * { box-sizing: border-box; }
@@ -76,6 +76,7 @@ h1, h2, h3, h4, nav {
 h1 {
 	font-size:250%;
 	margin-bottom:1em;
+	text-align:center;
 }
 
 h2 {
